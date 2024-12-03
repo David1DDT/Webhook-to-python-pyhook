@@ -2,7 +2,7 @@
 from discord_webhook import DiscordWebhook
 
 # Replace with your webhook URL
-webhook_url = 'https://discord.com/api/webhooks/1311359096947081216/8sGGkU67FyNGGYPCKH9M8xyzuVj-1EjVxFPcJjSSeNrCYmVWRcKQgL6HGsOKErELCmnw'
+webhook_url = 'yourWebhookUrl'
 user = input("enter your user: ")
 def webhook(mes):
 # Create a webhook instance
